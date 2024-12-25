@@ -49,12 +49,12 @@ This project aims to:
 ## 📸 Screenshots
 
 ### **BMI Calculator**
-![BMI Calculator Screenshot](#)  
-(*Replace `#` with the actual screenshot link*)
+![BMI Calculator Screenshot](https://github.com/Yashkolte1/Health-Tracker-BMI-Calculator/blob/main/Health%20Tracker%20And%20BMI%20Calculator.jpg?raw=true)  
+
 
 ### **Water Intake Tracker**
-![Water Intake Tracker Screenshot](#)  
-(*Replace `#` with the actual screenshot link*)
+![Water Intake Tracker Screenshot](https://github.com/Yashkolte1/Health-Tracker-BMI-Calculator/blob/main/Health%20Tracker%20And%20BMI%20Calculator%201.jpg?raw=true)  
+
 
 ---
 
