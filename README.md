@@ -1,10 +1,4 @@
-Here's an **all-in-one README** file that thoroughly describes your project in a visually appealing and comprehensive way:
 
----
-
-### **README.md**
-
-```markdown
 # 🌟 Health Tracker & BMI Calculator 🌟
 
 An interactive web application designed to promote health awareness by calculating Body Mass Index (BMI) and tracking daily water intake. This project combines functionality, aesthetics, and responsiveness for an engaging user experience.
