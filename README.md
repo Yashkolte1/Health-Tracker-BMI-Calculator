@@ -41,7 +41,7 @@ This project aims to:
 
 ## 🌐 Demo
 
-🔗 **Live Demo**: [Click Here](#)  
+🔗 **Live Demo**: [Click Here](https://healthtrackerandbmicalculator.netlify.app/)  
 (*Replace `#` with your live demo link*)
 
 ---
