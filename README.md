@@ -165,23 +165,12 @@ Contributions are welcome! To contribute:
 
 ## 🙋 About the Author
 
-👤 **Kyash Kolte**  
-💼 [GitHub Profile](https://github.com/your-username)  
-📧 [Contact Me](mailto:your-email@example.com)  
+👤 **Kyash**  
+💼 [GitHub Profile](Yashkolte1)  
+📧 [Contact Me](yashthetopslugger@gmail.com)  
 
 ---
 
 ## 🌟 Show Your Support
 
 If you like this project, please consider giving it a ⭐ on GitHub! Your support means a lot.
-```
-
----
-
-### How to Use
-
-1. Replace placeholders (`#`) with actual links for screenshots and live demo.
-2. Add your GitHub username, profile link, and email in the "About the Author" section.
-3. Save this as `README.md` and include it in your repository.
-
-This format ensures that all relevant details about your project are included in a clean and visually appealing way!
