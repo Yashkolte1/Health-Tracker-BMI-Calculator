@@ -41,8 +41,8 @@ This project aims to:
 
 ## 🌐 Demo
 
-🔗 **Live Demo**: [Click Here](https://healthtrackerandbmicalculator.netlify.app/)  
-(*Replace `#` with your live demo link*)
+🔗 **Live Demo**: [BMI calculator Demo](https://healthtrackerandbmicalculator.netlify.app/)  
+
 
 ---
 
@@ -143,25 +143,7 @@ This project is licensed under the **MIT License**. Feel free to use, modify, an
 
 ---
 
-## 🤝 Contributing
 
-Contributions are welcome! To contribute:
-1. Fork this repository.
-2. Create a new branch:
-   ```bash
-   git checkout -b feature-name
-   ```
-3. Commit your changes:
-   ```bash
-   git commit -m "Add feature-name"
-   ```
-4. Push to the branch:
-   ```bash
-   git push origin feature-name
-   ```
-5. Open a pull request.
-
----
 
 ## 🙋 About the Author
 
